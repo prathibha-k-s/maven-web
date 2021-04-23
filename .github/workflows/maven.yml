@@ -12,6 +12,7 @@ on:
 jobs:
   build:
 
+   # self-hosted
     runs-on: self-hosted
 
     steps:
